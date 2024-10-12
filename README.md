@@ -8,3 +8,5 @@
 * [Height Optimized Tries (2022)](articles/index/trie/hot/hot-2022.pdf)
 
 ### Adaptive Radix Tree (ART)
+
+* [The Adaptive Radix Tree: ARTful Indexing for Main-Memory Databases (2013)](articles/index/trie/art/art-2013.pdf)
