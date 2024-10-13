@@ -29,6 +29,14 @@
 * [2002 - Efficient In-Memory Indexing with Generalized Prefix Trees](<articles/index/Trie/Other/2002 - Generalized Prefix Trees.pdf>)
 * [2009 - B-tries for disk-based string management](<articles/index/Trie/Other/2009 - B-tries.pdf>)
 
+#### Patricia
+
+* [1997 - An experimental study of compression methods for dynamic tries](<articles/index/Trie/Other/Patricia/1997 - LPC-trie.pdf>)
+* [1998 - Implementing a dynamic compressed trie](<articles/index/Trie/Other/Patricia/1998 - LPC-trie.pdf>)
+* [2002 - A dynamic construction algorithm for the Compact Patricia trie using the hierarchical structure](<articles/index/Trie/Other/Patricia/2002 - Compact Patricia trie.pdf>)
+* [2004 - Partitioning of trees for minimizing height and cardinality](<articles/index/Trie/Other/Patricia/2004 - Partitioning of trees.pdf>)
+* [2010 - Minimum Height Path Partitioning of Trees](<articles/index/Trie/Other/Patricia/2010 - Partitioning of Trees.pdf>)
+* [2021 - Tries and Digital Search Trees](<articles/index/Trie/Other/Patricia/2021 - Tries and Digital Search Trees.pdf>)
 
 ## B-tree
 
@@ -62,9 +70,15 @@
 
 ## Unsorted
 
+* [2007 - An Adaptive Packed-Memory Array](<articles/index/Unsorted/2007 - An Adaptive Packed-Memory Array.pdf>)
+* [2007 - DiskTrie: An Efficient Data Structure Using Flash Memory for Mobile Devices](<articles/index/Unsorted/2007 - DiskTrie.pdf>)
 * [2018 - RC-Index: Diversifying Answers to Range Queries](<articles/index/Unsorted/2018 - RC-Index.pdf>)
+* [2019 - Wormhole: A Fast Ordered Index for In-memory Data Management](<articles/index/Unsorted/2019 - Wormhole.pdf>)
 * [2020 - HydraList: A Scalable In-Memory Index Using Asynchronous Updates and Partial Replication](<articles/index/Unsorted/2020 - HydraList.pdf>)
+* [2020 - Umbra: A Disk-Based System with In-Memory Performance](<articles/index/Unsorted/2020 - Umbra.pdf>)
 * [2022 - NBTree: a Lock-free PM-friendly Persistent B+-Tree for eADR-enabled PM Systems](<articles/index/Unsorted/2022 - NBTree.pdf>)
+* [2023 - Blink-hash: An Adaptive Hybrid Index for In-Memory Time-Series Databases](<articles/index/Unsorted/2023 - Blink-hash.pdf>)
+* [2023 - CoCo-trie: Data-aware compression and indexing of strings](<articles/index/Unsorted/2023 - CoCo-trie.pdf>)
 
 ## Other
 
@@ -73,5 +87,4 @@
 ## Cracking
 
 * [2007 - Database Cracking](<articles/index/Cracking/2007 - Database Cracking.pdf>)
-
 * [2018 - Database Cracking](<articles/index/Cracking/2018 - Database Cracking.pdf>)
