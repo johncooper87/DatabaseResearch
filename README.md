@@ -10,7 +10,17 @@
 
 ### Adaptive Radix Tree (ART)
 
-* [The Adaptive Radix Tree: ARTful Indexing for Main-Memory Databases (2013)](<articles/index/Trie/ART/ART-2013.pdf>)
+* [2013 - The Adaptive Radix Tree: ARTful Indexing for Main-Memory Databases](<articles/index/Trie/ART/2013 - The Adaptive Radix Tree.pdf>)
+* [2015 - A Comparison of Adaptive Radix Trees and Hash Tables](<articles/index/Trie/ART/2015 - ART vs Hash Tables.pdf>)
+* [2015 - TLB misses: the Missing Issue of Adaptive Radix Tree](<articles/index/Trie/ART/2015 - TLB misses.pdf>)
+* [2017 - Incremental Branching Adaptive Radix Tree](<articles/index/Trie/ART/2017 - IBART.pdf>)
+* [2017 - Persistent Adaptive Radix Trees: Efficient Fine-Grained Updates to Immutable Data](<articles/index/Trie/ART/2017 - PART.pdf>)
+* [2017 - WORT: Write Optimal Radix Tree for Persistent Memory Storage Systems](<articles/index/Trie/ART/2017 - WOART.pdf>)
+* [2018 - DART: Distributed Adaptive Radix Tree for Efficient Affix-based Keyword Search on HPC Systems](<articles/index/Trie/ART/2018 - DART.pdf>)
+* [2020 - Cracking In-Memory Database Index: A Case Study for Adaptive Radix Tree Index](<articles/index/Trie/ART/2020 - Cracking ART.pdf>)
+* [2020 - START: Self-Tuning Adaptive Radix Tree](<articles/index/Trie/ART/2020 - START.pdf>)
+* [2021 - ROART: Range-query Optimized Persistent ART](<articles/index/Trie/ART/2021 - ROART.pdf>)
+* [2023 - SMART: A High-Performance Adaptive Radix Tree for Disaggregated Memory](<articles/index/Trie/ART/2023 - SMART.pdf>)
 
 ## B-tree
 
